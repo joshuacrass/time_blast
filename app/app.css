@@ -1,0 +1,30 @@
+header {
+  background: rgb(22, 85, 202);
+  text-align: center;
+  height: 25px;
+  color: rgb(197, 197, 197);
+  -webkit-app-region: drag;
+  user-select: none;
+  -webkit-user-select: none;
+}
+body {
+  background: rgb(40, 44, 52);
+}
+.app {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 15%;
+  color: aliceblue;
+}
+
+.app-title {
+  font-size: 50px;
+}
+
+.clock-days,
+.clock-hours,
+.clock-minutes,
+.clock-seconds {
+  display: inline;
+  margin: 10px;
+}
