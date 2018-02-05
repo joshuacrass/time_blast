@@ -1,6 +1,5 @@
-# electron-react-tutorial
-
-This project is a learning resource designed to show how Electron, React, and webpack can work together. The react app itself, was originally written by @nataliacrass.
+# Time Blast
+This project is a learning resource designed to show how Electron, React, and webpack can work together. The react app itself, was originally written by @nataliacrass and the electron boilerplate was a fork of electron-react-tutorial
 
 ### Instructions
 
@@ -11,3 +10,5 @@ npm run watch
 # open a new terminal
 npm start
 ```
+
+for all the rest, see the package.json
