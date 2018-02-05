@@ -9,6 +9,17 @@ npm run watch
 
 # open a new terminal
 npm start
-```
 
+# Build
+npm dist
+```
 for all the rest, see the package.json
+
+You can find the release packages in the dist folder after build.
+
+NOTE: I have only tested this on MacOS. :) Good Luck.
+
+Additional reading: https://electronjs.org/docs
+
+and [This Medium Post](https://medium.com/@Agro/developing-desktop-applications-with-electron-and-react-40d117d97564)
+
